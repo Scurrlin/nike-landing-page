@@ -3,7 +3,7 @@ import {
   CustomerReviews,
   Footer,
   Hero,
-  PopularProudcts,
+  PopularProducts,
   Services,
   SpecialOffer,
   Subscribe,
