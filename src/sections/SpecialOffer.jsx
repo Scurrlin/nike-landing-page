@@ -20,14 +20,7 @@ const SpecialOffer = () => {
           Offer
         </h2>
         <p className='mt-4 info-text'>
-          Embark on a shopping journey that redefines your experience with
-          unbeatable deals. From premier selections to incredible savings, we
-          offer unparalleled value that sets us apart.
-        </p>
-        <p className='mt-6 info-text'>
-          Navigate a realm of possibilities designed to fulfill your unique
-          desires, surpassing the loftiest expectations. Your journey with us is
-          nothing short of exceptional.
+          First-time buyer? For a limited time this month, first-time customers get 30% off their first two Nike purchases!
         </p>
         <div className='mt-11 flex flex-wrap gap-4'>
           <Button label='Shop now' iconURL={arrowRight} />
